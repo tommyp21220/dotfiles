@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tompashut@gmail.com
+	name = Tom Pashut
